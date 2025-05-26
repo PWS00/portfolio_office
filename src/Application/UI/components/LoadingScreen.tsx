@@ -157,7 +157,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             </div>
                         </div>
                         <div style={styles.headerInfo}>
-                            <p>Released: 01/13/2000</p>
+                            <p>Released: MAY 26, 2025</p>
                             <p>MMBIOS (C)2000 Walter Soriano Inc.,</p>
                         </div>
                     </div>
